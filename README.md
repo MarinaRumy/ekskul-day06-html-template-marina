@@ -1,1 +1,1 @@
-# ekskul-day06-html-template-marina
+# ekskul-day06-html-template-janzen
